@@ -26,7 +26,7 @@ namespace walkthroughtrellis
             */
             foreach (HoeDirt dirt in Game1.currentLocation.terrainFeatures.Values.OfType<HoeDirt>().Where(dirt => dirt.crop != null).ToArray())
             {
-                dirt.crop.raisedSeeds = false;
+                dirt.crop.raisedSeeds.Value = false;
             }
         }
         //Telling smapi that we can edit the assetinfo of the crops XNB in the data folder of SDV
