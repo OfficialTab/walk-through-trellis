@@ -16,17 +16,19 @@ namespace walkthroughtrellis
         public override void Entry(IModHelper helper)
         {
             //implementing the event
-            LocationEvents.CurrentLocationChanged += LocationEvents_CurrentLocationChanged;
+            PlayerEvents.Warped += PlayerEvents_Warped;
+            //was current location and now that's different?
         }
         //location change event
-        public void LocationEvents_CurrentLocationChanged(object sender, EventArgs e)
+        public void PlayerEvents_Warped(object sender, EventArgs e)
         {
             /*Telling it for every HoeDirt type that is dirt in the locations gathered (Thanks PathosChild <3)
             with the given parameters, make the raised seed setting for the crops false. 
             */
             foreach (HoeDirt dirt in Game1.currentLocation.terrainFeatures.Values.OfType<HoeDirt>().Where(dirt => dirt.crop != null).ToArray())
             {
-                dirt.crop.raisedSeeds = false;
+                dirt.crop.raisedSeeds.Value = false;
+                //was dirt.crop.raisedSeeds?
             }
         }
         //Telling smapi that we can edit the assetinfo of the crops XNB in the data folder of SDV
