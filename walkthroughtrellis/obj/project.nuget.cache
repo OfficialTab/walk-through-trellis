@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rg8NORdvzIM63oEwGl9nEpveLYQCN5EpjCuN4HbOiIcPOJB/M6l0tpeY8jdE4gMEgXkxxQI+Uw1eu+FqQrhEuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheOfficialTab\\source\\repos\\walk through trellis 104\\walk through trellis 104\\walk through trellis 104.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\3.1.0\\pathoschild.stardew.modbuildconfig.3.1.0.nupkg.sha512",
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
