@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.Build",
+          "Microsoft.Build.Framework",
+          "Microsoft.Build.Utilities.v4.0",
+          "System.IO.Compression",
+          "System.Web.Extensions"
+        ],
+        "build": {
+          "build/Pathoschild.Stardew.ModBuildConfig.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pathoschild.Stardew.ModBuildConfig/3.2.2": {
+      "sha512": "lBnDMxAMD602ku17jE1Wl1M9qbIAftW60VVI+wH+VTQQixjVA8+oW/rzQSUrKf2OzEzkKt7trV/ZHn6p9YnhKQ==",
+      "type": "package",
+      "path": "pathoschild.stardew.modbuildconfig/3.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/SMAPI.ModBuildConfig.Analyzer.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/Pathoschild.Stardew.ModBuildConfig.targets",
+        "build/SMAPI.ModBuildConfig.dll",
+        "build/SMAPI.Toolkit.CoreInterfaces.dll",
+        "build/SMAPI.Toolkit.dll",
+        "build/find-game-folder.targets",
+        "images/icon.png",
+        "pathoschild.stardew.modbuildconfig.3.2.2.nupkg.sha512",
+        "pathoschild.stardew.modbuildconfig.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Pathoschild.Stardew.ModBuildConfig >= 3.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\TheOfficialTab\\source\\repos\\walkthroughtrellis\\walkthroughtrellis\\walkthroughtrellis.csproj",
+      "projectName": "walkthroughtrellis",
+      "projectPath": "C:\\Users\\TheOfficialTab\\source\\repos\\walkthroughtrellis\\walkthroughtrellis\\walkthroughtrellis.csproj",
+      "packagesPath": "C:\\Users\\TheOfficialTab\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TheOfficialTab\\source\\repos\\walkthroughtrellis\\walkthroughtrellis\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\TheOfficialTab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Pathoschild.Stardew.ModBuildConfig": {
+            "target": "Package",
+            "version": "[3.2.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

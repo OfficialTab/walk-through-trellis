@@ -1,6 +1,5 @@
 C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\bin\Debug\walkthroughtrellis.dll
 C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\bin\Debug\walkthroughtrellis.pdb
-C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\obj\Debug\walkthroughtrellis.csprojAssemblyReference.cache
 C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\obj\Debug\walkthroughtrellis.csproj.CoreCompileInputs.cache
 C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\obj\Debug\walkthroughtrellis.dll
 C:\Users\TheOfficialTab\source\repos\walkthroughtrellis\walkthroughtrellis\obj\Debug\walkthroughtrellis.pdb
