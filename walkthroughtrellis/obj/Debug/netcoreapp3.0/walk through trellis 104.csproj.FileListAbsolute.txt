@@ -1,5 +1,0 @@
-C:\Users\TheOfficialTab\source\repos\walk through trellis 104\walk through trellis 104\obj\Debug\netcoreapp3.0\walk through trellis 104.csprojAssemblyReference.cache
-C:\Users\TheOfficialTab\source\repos\walk through trellis 104\walk through trellis 104\obj\Debug\netcoreapp3.0\walk through trellis 104.csproj.CoreCompileInputs.cache
-C:\Users\TheOfficialTab\source\repos\walk through trellis 104\walk through trellis 104\obj\Debug\netcoreapp3.0\walk through trellis 104.AssemblyInfoInputs.cache
-C:\Users\TheOfficialTab\source\repos\walk through trellis 104\walk through trellis 104\obj\Debug\netcoreapp3.0\walk through trellis 104.AssemblyInfo.cs
-C:\Users\TheOfficialTab\source\repos\walk through trellis 104\walk through trellis 104\bin\Debug\netcoreapp3.0\walk through trellis 104.exe
