@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hSLcF305r5t6BWbCeczr11f9NvY3x3eM+slSpZgFOpUY1T2rklMhd2EsDMo/jnzzMMV+ZbCsbha6CgdUPey/gQ==",
+  "dgSpecHash": "/zX5Qw25WmzRdY29GCDROec6sf4pLTVyQCn1vzOIyKC+SMEz0DJ6r6QWJM8qtauw1B4dS2E+llO544usBCHDoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TheOfficialTab\\source\\repos\\walkthroughtrellis\\walkthroughtrellis\\walkthroughtrellis.csproj",
+  "projectFilePath": "C:\\Users\\Tabmin\\source\\repos\\walkthroughtrellis\\walkthroughtrellis\\walkthroughtrellis.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TheOfficialTab\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\3.2.2\\pathoschild.stardew.modbuildconfig.3.2.2.nupkg.sha512"
+    "C:\\Users\\Tabmin\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.1\\pathoschild.stardew.modbuildconfig.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }
